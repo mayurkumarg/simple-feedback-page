@@ -12,7 +12,7 @@ There are several ways of editing your application.
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/b1f4d703-fc51-43e5-a8cd-d27bc74389ae) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Lovable will be committed automatically to this repo and deployed to production.
 
 **Use your preferred IDE**
 
@@ -39,7 +39,7 @@ npm run dev
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Click the "Delete" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
 
 **Use GitHub Codespaces**
@@ -57,7 +57,7 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
+- edited line
 - Tailwind CSS
 
 ## How can I deploy this project?
